@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\bin\Debug\net9.0\AnnotationsTutorial.exe
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\bin\Debug\net9.0\AnnotationsTutorial.deps.json
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\bin\Debug\net9.0\AnnotationsTutorial.runtimeconfig.json
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\bin\Debug\net9.0\AnnotationsTutorial.dll
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\bin\Debug\net9.0\AnnotationsTutorial.pdb
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.AssemblyInfo.cs
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.dll
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\refint\AnnotationsTutorial.dll
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.pdb
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.genruntimeconfig.cache
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\ref\AnnotationsTutorial.dll
