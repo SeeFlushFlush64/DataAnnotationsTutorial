@@ -12,3 +12,4 @@ C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\ne
 C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.pdb
 C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.genruntimeconfig.cache
 C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\ref\AnnotationsTutorial.dll
+C:\Users\micha\source\repos\AnnotationsTutorial\AnnotationsTutorial\obj\Debug\net9.0\AnnotationsTutorial.sourcelink.json
